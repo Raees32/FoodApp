@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "asset/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf",
+      "sha1": "4308eea3f3cecfec12d6589ec458cb9745d815c5"
+    },
+    {
+      "path": "asset/fonts/PlayfairDisplay-VariableFont_wght.ttf",
+      "sha1": "2fcb048a917b7607887df262ee3742a50264c764"
+    }
+  ]
+}
